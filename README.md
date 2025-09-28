@@ -33,6 +33,43 @@
 
 <img width="1884" height="935" alt="image" src="https://github.com/user-attachments/assets/bd16192f-4937-4bf5-8788-8c363db472dc" />
 
+3. Windows Form Application, bắt buộc sử dụng .NET Framework 2.0**, sử dụng được DLL đa năng trên, kéo các control vào để có thể lấy đc input, gọi DLL truyền input để lấy đc kq, hiển thị kq ra window form, phải có dấu án cá nhân; keyword: c# window Desktop => Windows Form Application (.NET Framework), biên dịch ra EXE
+### Tạo Project Ưindows Form Application
+<img width="1881" height="872" alt="image" src="https://github.com/user-attachments/assets/c619a64c-62a5-4b35-9cb8-e2a24477ea0c" />
+
+- Chạy thử chương trình bằng cách chuột phải vào MarketDesktop -> Set as Startup Project -> Ctrl + F5:
+<img width="1880" height="898" alt="image" src="https://github.com/user-attachments/assets/c66b030d-0169-476f-93ea-25572878ebff" />
+
+4. Web đơn giản, bắt buộc sử dụng .NET Framework 2.0, sử dụng web server là IIS, dùng file hosts để tự tạo domain, gắn domain này vào iis, file index.html có sử dụng html css js để xây dựng giao diện nhập được các input cho bài toán, dùng mã js để tiền xử lý dữ liệu, js để gửi lên backend. backend là api.aspx, trong code của api.aspx.cs thì lấy được các input mà js gửi lên, rồi sử dụng được DLL đa năng trên. kết quả gửi lại json cho client, js phía client sẽ nhận được json này hậu xử lý để thay đổi giao diện theo dữ liệu nhận dược, phải có dấu án cá nhân. keyword: c# window web => ASP.NET Web Application (.NET Framework)
+### Tạo Project Web Application
+<img width="1882" height="929" alt="image" src="https://github.com/user-attachments/assets/1bb854ca-c46a-4656-bb79-0dd3314a16c9" />
+
+<img width="1881" height="898" alt="image" src="https://github.com/user-attachments/assets/1126c7a7-5f11-4bee-85ed-fec1a7db3c4e" />
+
+<img width="1880" height="931" alt="image" src="https://github.com/user-attachments/assets/f5137399-b27f-4c12-a1b4-51774619a9e4" />
+
+<img width="1883" height="898" alt="image" src="https://github.com/user-attachments/assets/ec121584-a613-417f-8854-606c9d2302d3" />
+
+<img width="1879" height="900" alt="image" src="https://github.com/user-attachments/assets/009c1818-55f9-4af0-a742-8aa881869d78" />
+
+<img width="1881" height="892" alt="image" src="https://github.com/user-attachments/assets/05bd6761-ce29-4583-8f7b-38fb75bf108f" />
+
+<img width="1880" height="899" alt="image" src="https://github.com/user-attachments/assets/e6449025-abaf-43c9-983b-4440eb5cf6b4" />
+
+### Chạy test chương trình
+<img width="1365" height="567" alt="image" src="https://github.com/user-attachments/assets/e4fe8ac6-9152-4132-8e91-b37b85bf6c53" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
