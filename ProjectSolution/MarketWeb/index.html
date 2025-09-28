@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Máy Tính Tiền Đi Chợ</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #f8fff4;
+            margin: 20px;
+        }
+
+        h2 {
+            color: green;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 60%;
+            margin-top: 10px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background: #cfe9c7;
+        }
+
+        #tong {
+            font-weight: bold;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Máy Tính Tiền Đi Chợ</h2>
+
+    <div>
+        <input type="text" id="ten" placeholder="Tên hàng" />
+        <input type="number" id="soluong" placeholder="Số lượng" value="1" />
+        <input type="number" id="dongia" placeholder="Đơn giá" />
+        <button onclick="themHang()">Thêm</button>
+        <button onclick="thanhToan()">Thanh toán</button>
+    </div>
+
+    <table id="giohang">
+        <thead>
+            <tr>
+                <th>Tên hàng</th>
+                <th>Số lượng</th>
+                <th>Đơn giá</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <div id="tong">Tổng tiền: 0 VND</div>
+
+    <script>
+        var gio = [];
+
+        function themHang() {
+            var ten = document.getElementById("ten").value;
+            var soluong = parseInt(document.getElementById("soluong").value);
+            var dongia = parseInt(document.getElementById("dongia").value);
+
+            if (!ten || soluong <= 0 || dongia < 0) {
+                alert("Vui lòng nhập đúng thông tin!");
+                return;
+            }
+
+            gio.push({ Ten: ten, SoLuong: soluong, DonGia: dongia });
+            capNhatBang();
+        }
+
+        function capNhatBang() {
+            var tbody = document.getElementById("giohang").getElementsByTagName("tbody")[0];
+            tbody.innerHTML = "";
+            for (var i = 0; i < gio.length; i++) {
+                var row = "<tr><td>" + gio[i].Ten + "</td><td>" +
+                    gio[i].SoLuong + "</td><td>" +
+                    gio[i].DonGia + "</td></tr>";
+                tbody.innerHTML += row;
+            }
+        }
+
+        function thanhToan() {
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "api.aspx", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    console.log("Phản hồi:", xhr.responseText);
+                    var kq = JSON.parse(xhr.responseText);
+                    document.getElementById("tong").innerText = "Tổng tiền: " + kq.TongTien + " VND";
+                }
+            };
+
+            var arr = [];
+            for (var i = 0; i < gio.length; i++) {
+                arr.push(gio[i].Ten + "|" + gio[i].SoLuong + "|" + gio[i].DonGia);
+            }
+            var data = "items=" + encodeURIComponent(arr.join(";"));
+            xhr.send(data);
+        }
+    </script>
+</body>
+</html>

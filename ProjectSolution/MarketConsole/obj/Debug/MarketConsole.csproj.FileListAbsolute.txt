@@ -1,0 +1,27 @@
+D:\app tren nen wed\Solution2\MarketConsole\bin\Debug\MarketConsole.exe
+D:\app tren nen wed\Solution2\MarketConsole\bin\Debug\MarketConsole.pdb
+D:\app tren nen wed\Solution2\MarketConsole\bin\Debug\MarketLibrary.dll
+D:\app tren nen wed\Solution2\MarketConsole\bin\Debug\MarketLibrary.pdb
+D:\app tren nen wed\Solution2\MarketConsole\obj\Debug\MarketConsole.csproj.AssemblyReference.cache
+D:\app tren nen wed\Solution2\MarketConsole\obj\Debug\MarketConsole.csproj.CoreCompileInputs.cache
+D:\app tren nen wed\Solution2\MarketConsole\obj\Debug\MarketCo.84A2F3B2.Up2Date
+D:\app tren nen wed\Solution2\MarketConsole\obj\Debug\MarketConsole.exe
+D:\app tren nen wed\Solution2\MarketConsole\obj\Debug\MarketConsole.pdb
+C:\Users\vuvie\Downloads\Solution2\MarketConsole\bin\Debug\MarketConsole.exe
+C:\Users\vuvie\Downloads\Solution2\MarketConsole\bin\Debug\MarketConsole.pdb
+C:\Users\vuvie\Downloads\Solution2\MarketConsole\bin\Debug\MarketLibrary.dll
+C:\Users\vuvie\Downloads\Solution2\MarketConsole\bin\Debug\MarketLibrary.pdb
+C:\Users\vuvie\Downloads\Solution2\MarketConsole\obj\Debug\MarketConsole.csproj.AssemblyReference.cache
+C:\Users\vuvie\Downloads\Solution2\MarketConsole\obj\Debug\MarketConsole.csproj.CoreCompileInputs.cache
+C:\Users\vuvie\Downloads\Solution2\MarketConsole\obj\Debug\MarketCo.84A2F3B2.Up2Date
+C:\Users\vuvie\Downloads\Solution2\MarketConsole\obj\Debug\MarketConsole.exe
+C:\Users\vuvie\Downloads\Solution2\MarketConsole\obj\Debug\MarketConsole.pdb
+D:\Solution2\MarketConsole\bin\Debug\MarketConsole.exe
+D:\Solution2\MarketConsole\bin\Debug\MarketConsole.pdb
+D:\Solution2\MarketConsole\bin\Debug\MarketLibrary.dll
+D:\Solution2\MarketConsole\bin\Debug\MarketLibrary.pdb
+D:\Solution2\MarketConsole\obj\Debug\MarketConsole.csproj.AssemblyReference.cache
+D:\Solution2\MarketConsole\obj\Debug\MarketConsole.csproj.CoreCompileInputs.cache
+D:\Solution2\MarketConsole\obj\Debug\MarketCo.84A2F3B2.Up2Date
+D:\Solution2\MarketConsole\obj\Debug\MarketConsole.exe
+D:\Solution2\MarketConsole\obj\Debug\MarketConsole.pdb

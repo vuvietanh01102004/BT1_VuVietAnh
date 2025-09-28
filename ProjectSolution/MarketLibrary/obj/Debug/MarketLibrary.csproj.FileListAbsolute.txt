@@ -1,0 +1,18 @@
+D:\app tren nen wed\Solution2\MarketLibrary\bin\Debug\MarketLibrary.dll
+D:\app tren nen wed\Solution2\MarketLibrary\bin\Debug\MarketLibrary.pdb
+D:\app tren nen wed\Solution2\MarketLibrary\obj\Debug\MarketLibrary.csproj.AssemblyReference.cache
+D:\app tren nen wed\Solution2\MarketLibrary\obj\Debug\MarketLibrary.csproj.CoreCompileInputs.cache
+D:\app tren nen wed\Solution2\MarketLibrary\obj\Debug\MarketLibrary.dll
+D:\app tren nen wed\Solution2\MarketLibrary\obj\Debug\MarketLibrary.pdb
+C:\Users\vuvie\Downloads\Solution2\MarketLibrary\bin\Debug\MarketLibrary.dll
+C:\Users\vuvie\Downloads\Solution2\MarketLibrary\bin\Debug\MarketLibrary.pdb
+C:\Users\vuvie\Downloads\Solution2\MarketLibrary\obj\Debug\MarketLibrary.csproj.AssemblyReference.cache
+C:\Users\vuvie\Downloads\Solution2\MarketLibrary\obj\Debug\MarketLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vuvie\Downloads\Solution2\MarketLibrary\obj\Debug\MarketLibrary.dll
+C:\Users\vuvie\Downloads\Solution2\MarketLibrary\obj\Debug\MarketLibrary.pdb
+D:\Solution2\MarketLibrary\bin\Debug\MarketLibrary.dll
+D:\Solution2\MarketLibrary\bin\Debug\MarketLibrary.pdb
+D:\Solution2\MarketLibrary\obj\Debug\MarketLibrary.csproj.AssemblyReference.cache
+D:\Solution2\MarketLibrary\obj\Debug\MarketLibrary.csproj.CoreCompileInputs.cache
+D:\Solution2\MarketLibrary\obj\Debug\MarketLibrary.dll
+D:\Solution2\MarketLibrary\obj\Debug\MarketLibrary.pdb

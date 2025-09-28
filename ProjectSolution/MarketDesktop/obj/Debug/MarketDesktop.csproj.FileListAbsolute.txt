@@ -1,0 +1,36 @@
+D:\app tren nen wed\Solution2\MarketDesktop\obj\Debug\MarketDesktop.csproj.AssemblyReference.cache
+D:\app tren nen wed\Solution2\MarketDesktop\obj\Debug\MarketDesktop.MainForm.resources
+D:\app tren nen wed\Solution2\MarketDesktop\obj\Debug\MarketDesktop.Properties.Resources.resources
+D:\app tren nen wed\Solution2\MarketDesktop\obj\Debug\MarketDesktop.csproj.GenerateResource.cache
+D:\app tren nen wed\Solution2\MarketDesktop\obj\Debug\MarketDesktop.csproj.CoreCompileInputs.cache
+D:\app tren nen wed\Solution2\MarketDesktop\bin\Debug\MarketDesktop.exe
+D:\app tren nen wed\Solution2\MarketDesktop\bin\Debug\MarketDesktop.pdb
+D:\app tren nen wed\Solution2\MarketDesktop\bin\Debug\MarketLibrary.dll
+D:\app tren nen wed\Solution2\MarketDesktop\bin\Debug\MarketLibrary.pdb
+D:\app tren nen wed\Solution2\MarketDesktop\obj\Debug\MarketDe.7771BC4E.Up2Date
+D:\app tren nen wed\Solution2\MarketDesktop\obj\Debug\MarketDesktop.exe
+D:\app tren nen wed\Solution2\MarketDesktop\obj\Debug\MarketDesktop.pdb
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\bin\Debug\MarketDesktop.exe
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\bin\Debug\MarketDesktop.pdb
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\bin\Debug\MarketLibrary.dll
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\bin\Debug\MarketLibrary.pdb
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\obj\Debug\MarketDesktop.csproj.AssemblyReference.cache
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\obj\Debug\MarketDesktop.MainForm.resources
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\obj\Debug\MarketDesktop.Properties.Resources.resources
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\obj\Debug\MarketDesktop.csproj.GenerateResource.cache
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\obj\Debug\MarketDesktop.csproj.CoreCompileInputs.cache
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\obj\Debug\MarketDe.7771BC4E.Up2Date
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\obj\Debug\MarketDesktop.exe
+C:\Users\vuvie\Downloads\Solution2\MarketDesktop\obj\Debug\MarketDesktop.pdb
+D:\Solution2\MarketDesktop\bin\Debug\MarketDesktop.exe
+D:\Solution2\MarketDesktop\bin\Debug\MarketDesktop.pdb
+D:\Solution2\MarketDesktop\bin\Debug\MarketLibrary.dll
+D:\Solution2\MarketDesktop\bin\Debug\MarketLibrary.pdb
+D:\Solution2\MarketDesktop\obj\Debug\MarketDesktop.csproj.AssemblyReference.cache
+D:\Solution2\MarketDesktop\obj\Debug\MarketDesktop.MainForm.resources
+D:\Solution2\MarketDesktop\obj\Debug\MarketDesktop.Properties.Resources.resources
+D:\Solution2\MarketDesktop\obj\Debug\MarketDesktop.csproj.GenerateResource.cache
+D:\Solution2\MarketDesktop\obj\Debug\MarketDesktop.csproj.CoreCompileInputs.cache
+D:\Solution2\MarketDesktop\obj\Debug\MarketDe.7771BC4E.Up2Date
+D:\Solution2\MarketDesktop\obj\Debug\MarketDesktop.exe
+D:\Solution2\MarketDesktop\obj\Debug\MarketDesktop.pdb
